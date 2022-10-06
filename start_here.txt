@@ -1,0 +1,4 @@
+Type request to request a challenge. Type help for a list of commands.
+
+<style type="text/css">.term-yellow{color:#f4b400;}</style>
+<div role="alert"><div style="width: 100%;">Type <span class="term-yellow">request</span> to request a challenge. Type <span class="term-yellow">help</span> for a list of commands.</div></div>
